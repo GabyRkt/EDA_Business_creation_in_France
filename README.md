@@ -1,4 +1,4 @@
-# EDA_Business_creation_in_France
+# EDA - Business creation in France (2012 - 2024)
 This project is an exploratory data analysis (EDA) on business creation in France between 2012 and 2024. It uses INSEE public data to examine how the number of new businesses have evolved over time and which demographic or structural components contribute most to this evolution.
 
 ## Objectives
