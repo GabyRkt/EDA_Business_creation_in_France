@@ -20,8 +20,8 @@ From the analysis, several consistent patterns emerge:
 ## Repository structure 
 ```
 ├── data/ ------------- Raw and cleaned INSEE datasets
-├── notebook.ipynb ---- Full Python EDA
-├── dashboard.pbix ---- Power BI dashboard
+├── EDA_notebook.ipynb ---- Full Python EDA
+├── EDA_dashboard.pbix ---- Power BI dashboard
 ├── images/ ----------- Exported charts and screenshots
 └── README.md --------- Documentation
 ```
