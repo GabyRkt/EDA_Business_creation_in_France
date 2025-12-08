@@ -40,5 +40,5 @@ This section summarizes the main steps used to prepare, clean, and structure the
 
 └── data.zip -------------- Raw INSEE datasets
 
-## Conlusion
+## Conclusion
 The analysis shows that the rise in business creation in France over the last decade is driven by a few clear forces: the expansion of the micro-entrepreneur regime, the growing participation of younger founders, and the weight of a few group of service-oriented sectors. Despite this rapid growth, the overall structure of entrepreneurs remains fairly stable, especially in terms of gender and legal form.
