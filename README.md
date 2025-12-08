@@ -32,9 +32,9 @@ This section summarizes the main steps used to prepare, clean, and structure the
 ## Repository structure 
 ├── images/ --------------- Screenshots
 
-├── EDA_project.ipynb ----- Full Python EDA
-
 ├── EDA_dashboard.pbix ---- Power BI dashboard
+
+├── EDA_project.ipynb ----- Full Python EDA
 
 ├── README.md ------------- Documentation
 
