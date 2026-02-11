@@ -33,18 +33,17 @@ This section summarizes the main steps used to prepare, clean, and structure the
 - Metadata management : Joining metadata to the dataset to add descriptive labels to the original coded variables.
 - Exploratory visualization & Insight: Generating graphs in the notebook to understand key trends.
 - Clean data generation : Exporting the clean dataset as the definitive source for analysis in Power BI.
-- Power BI dashboard : Importing the clean dataset into Power BI to build interactive visuals and KPI summaries.
+- Modelisation : Creating the tables for a star schema data model for Power BI
+- Power BI dashboard : Importing the clean datasets into Power BI to build interactive visuals and KPI summaries.
 
 ## Repository structure 
-├── images/ --------------- Screenshots
-
-├── EDA_dashboard.pbix ---- Power BI dashboard
-
-├── EDA_project.ipynb ----- Full Python EDA
-
-├── README.md ------------- Documentation
-
-└── data.zip -------------- Raw INSEE datasets
+├── Jupyter notebook screenshots/ ---- Screenshots
+├── Star_schema_table/ --------------- Tables for the model on powerBI
+├── Dashboard.pbix ------------------- Power BI dashboard
+├── Data_transformation -------------- Python to create the tables for the star schema
+├── EDA_project.ipynb ---------------- Full Python EDA on jupyter notebook
+├── README.md ------------------------ Documentation
+└── data.zip ------------------------- Raw INSEE datasets
 
 ## Conclusion
 The analysis shows that the rise in business creation in France over the last decade is driven by a few clear forces: the expansion of the micro-entrepreneur regime, the growing participation of younger founders, and the weight of a few group of service-oriented sectors. Despite this rapid growth, the overall structure of entrepreneurs remains fairly stable, especially in terms of gender and legal form.
