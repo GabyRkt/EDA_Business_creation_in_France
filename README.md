@@ -38,11 +38,17 @@ This section summarizes the main steps used to prepare, clean, and structure the
 
 ## Repository structure 
 ├── Jupyter notebook screenshots/ ---- Screenshots
+
 ├── Star_schema_table/ --------------- Tables for the model on powerBI
+
 ├── Dashboard.pbix ------------------- Power BI dashboard
+
 ├── Data_transformation -------------- Python to create the tables for the star schema
+
 ├── EDA_project.ipynb ---------------- Full Python EDA on jupyter notebook
+
 ├── README.md ------------------------ Documentation
+
 └── data.zip ------------------------- Raw INSEE datasets
 
 ## Conclusion
