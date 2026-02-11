@@ -20,6 +20,12 @@ From the analysis, several consistent patterns emerge:
 - The gender gap remains quite stable over the period : around 40% women and 60% men.
 - A small number of service-oriented sectors account for most of the increase, particularly administrative support services, commerce, construction, and transport.
 
+<p align="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/9435c5d2-2cdc-4fdc-ab79-2bd58cd516ff" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/d02964d3-0665-4fc7-91d5-48983faf4274" />
+</p>
+
+
 ## Data components
 This section summarizes the main steps used to prepare, clean, and structure the data for analysis and reporting.
 - Raw Data Ingestion: Loading and processing data from INSEE's public datasets in a Jupyter Notebook using Python.
