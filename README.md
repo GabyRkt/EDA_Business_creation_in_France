@@ -28,13 +28,13 @@ From the analysis, several consistent patterns emerge:
 
 ## Data components
 This section summarizes the main steps used to prepare, clean, and structure the data for analysis and reporting.
-- Raw Data Ingestion: Loading and processing data from INSEE's public datasets in a Jupyter Notebook using Python.
-- Data cleaning: Basic quality checking to identify missing values, incorrect data types, and other initial inconsistencies.
-- Metadata management : Joining metadata to the dataset to add descriptive labels to the original coded variables.
-- Exploratory visualization & Insight: Generating graphs in the notebook to understand key trends.
-- Clean data generation : Exporting the clean dataset as the definitive source for analysis in Power BI.
-- Modelisation : Creating the tables for a star schema data model for Power BI
-- Power BI dashboard : Importing the clean datasets into Power BI to build interactive visuals and KPI summaries.
+- **Raw data Ingestion:** Loading and processing data from INSEE's public datasets in a Jupyter Notebook using Python.
+- **Data cleaning:** Basic quality checking to identify missing values, incorrect data types, and other initial inconsistencies.
+- **Metadata management:** Joining metadata to the dataset to add descriptive labels to the original coded variables.
+- **Exploratory visualization and insights:** Generating graphs in the notebook and the dashboard to understand key trends.
+- **Clean data generation:** Exporting the clean dataset as the definitive source for analysis in Power BI.
+- **Modelisation:** Creating a star schema data model for Power BI
+- **Power BI dashboard:** Importing the clean datasets into Power BI to build interactive visuals and KPI summaries.
 
 ## Repository structure 
 ├── Jupyter notebook screenshots/ ---- Screenshots
