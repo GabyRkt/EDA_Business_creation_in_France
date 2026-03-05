@@ -21,8 +21,8 @@ From the analysis, several consistent patterns emerge:
 - A small number of service-oriented sectors account for most of the increase, particularly administrative support services, commerce, construction, and transport.
 
 <p align="center">
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/9435c5d2-2cdc-4fdc-ab79-2bd58cd516ff" />
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/d02964d3-0665-4fc7-91d5-48983faf4274" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/05050055-824d-49a2-ab0f-077df03da4dc" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/09d505b6-4d7a-4078-bbda-d7b680235c6b" />
 </p>
 
 
