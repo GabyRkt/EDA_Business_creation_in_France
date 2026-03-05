@@ -15,7 +15,7 @@ The goal of this project is to explore how business creation has evolved in Fran
 ## Key findings
 From the analysis, several consistent patterns emerge:
 - The number of new businesses has nearly doubled between 2012 and 2024.
-- Most of this increase comes from the rise of micro-entrepreneurs, who represent more than 80% of new businesses in 2024.
+- Most of this increase comes from the rise of micro-entrepreneurs, who represent more than 86% of new businesses in 2024.
 - Entrepreneurs under 30 years old show the fastest growth and now make up close to 40% of new businesses in 2024.
 - The gender gap remains quite stable over the period : around 40% women and 60% men.
 - A small number of service-oriented sectors account for most of the increase, particularly administrative support services, commerce, construction, and transport.
